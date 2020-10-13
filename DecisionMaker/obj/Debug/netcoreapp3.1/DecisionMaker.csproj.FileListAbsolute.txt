@@ -1,0 +1,13 @@
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.exe
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.deps.json
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.runtimeconfig.json
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.runtimeconfig.dev.json
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.dll
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\bin\Debug\netcoreapp3.1\DecisionMaker.pdb
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.csprojAssemblyReference.cache
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.AssemblyInfoInputs.cache
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.AssemblyInfo.cs
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.dll
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.pdb
+C:\Users\HoboPrime\Desktop\grandCircus\unit 2\DecisionMaker\DecisionMaker\obj\Debug\netcoreapp3.1\DecisionMaker.genruntimeconfig.cache
